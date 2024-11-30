@@ -34,13 +34,12 @@ A custom AI project designed to assist with advanced mathematical reasoning and 
 
 ## Getting Started
 
+Again, I recommend just using the CustomGPT directly on OpenAI's website, but I am working on making downloable in Pyhton
+
 ### Prerequisites
 - Python 3.8 or higher
-- Dependencies listed in `requirements.txt`
+- Dependencies listed in `requirements.txt` (probably, still haven't finished the project)
 
 ### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/logical-mathematics-gpt.git
-   cd logical-mathematics-gpt
+WORK IN PROGRESS
