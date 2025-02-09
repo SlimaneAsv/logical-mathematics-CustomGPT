@@ -5,6 +5,7 @@ A custom AI project designed to assist with advanced mathematical reasoning and 
 
 **Logical Mathematics GPT** is an advanced AI-powered assistant tailored to solve problems in mathematical analysis, logic, and reasoning. The tool specializes in real analysis, measure theory, functional analysis, and other abstract mathematical topics. Designed for researchers, educators, and students, this project focuses on rigor, clarity, and logical reasoning.
 
+# EDIT 08-02-2025 : We are moving to Hugging Face !
 ---
 
 ## Features
